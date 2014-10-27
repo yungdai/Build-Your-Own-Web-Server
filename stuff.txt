@@ -1,0 +1,1 @@
+Object is the default root of all Ruby objects. Object inherits from BasicObject which allows creating alternate object hierarchies. Methods on object are available to all classes unless explicitly overridden.
